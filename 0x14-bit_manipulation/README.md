@@ -1,6 +1,6 @@
 # BIT MANIPULATION IN C.
 -C has the following bit operations:<br>
-	*&     -->     AND<br>
+&ensp*&     -->     AND<br>
 	*|     -->     OR<br>
 	*~ --> NOT<br>
 	*^ --> XOR<br>
