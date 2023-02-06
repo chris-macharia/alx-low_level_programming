@@ -5,7 +5,7 @@
 * ~ &ensp;&ensp;    ----------> &ensp;&ensp;&ensp; NOT<br>
 * ^ &ensp;&ensp;    ----------> &ensp;&ensp;&ensp; XOR<br>
 * << &ensp;&ensp;    ----------> &ensp;&ensp;&ensp; ASL(Arithimetic Shift Left)<br>
-* >> &ensp;&ensp;    ----------> &ensp;&ensp;&ensp; ASR(Arithimetic Shift Right)<br>
+* \>> &ensp;&ensp;    ----------> &ensp;&ensp;&ensp; ASR(Arithimetic Shift Right)<br>
 <br>
 -Not to be confused with &&, || and !
 <br>
