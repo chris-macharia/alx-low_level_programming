@@ -9,4 +9,4 @@
 <br>
 -Not to be confused with &&, || and !
 <br>
--Also check out for **Endianness**
+-Also check out for <strong>Endianness</strong>
